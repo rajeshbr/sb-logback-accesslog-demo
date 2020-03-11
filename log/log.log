@@ -1,0 +1,11 @@
+11-03-2020 20:58:26.283 [main] INFO  com.accesslog.demo.DemoApplication.logStarting - Starting DemoApplication on LM0001052 with PID 34997 (/Users/rajesh.bathula/Development/accesslogdemo/build/classes/java/main started by rajesh.bathula in /Users/rajesh.bathula/Development/accesslogdemo)
+11-03-2020 20:58:26.287 [main] INFO  com.accesslog.demo.DemoApplication.logStartupProfileInfo - The following profiles are active: prod
+11-03-2020 20:58:27.127 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+11-03-2020 20:58:27.153 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+11-03-2020 20:58:27.153 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+11-03-2020 20:58:27.240 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+11-03-2020 20:58:27.240 [main] INFO  o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 889 ms
+11-03-2020 20:58:27.481 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+11-03-2020 20:58:27.684 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+11-03-2020 20:58:27.688 [main] INFO  com.accesslog.demo.DemoApplication.logStarted - Started DemoApplication in 2.777 seconds (JVM running for 3.125)
+11-03-2020 20:59:00.226 [Thread-3] INFO  o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
