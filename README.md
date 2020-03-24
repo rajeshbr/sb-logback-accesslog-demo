@@ -1,2 +1,2 @@
 # sb-logback-accesslog-demo
-Sample application for integrating logback access log with springboot 2.0 application
+Demo application for using logback for embeded tomcat access logs in spring boot 2.0 application
